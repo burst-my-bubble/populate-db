@@ -1,0 +1,9 @@
+Sport, sport
+Technology, technology
+Politics, politics
+Business, business
+Science, science
+Education, education
+Entertainment, entertainment
+Health, health
+Travel, travel

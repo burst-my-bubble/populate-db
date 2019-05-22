@@ -1,0 +1,10 @@
+BBC, https://www.bbc.co.uk, bbc
+CNN, https://edition.cnn.com, cnn
+DailyMail, https://www.dailymail.co.uk/home/index.html, dailymail
+Buzzfeed, https://www.buzzfeed.com, buzzfeed
+TheGuardian, https://www.theguardian.com, theguardian
+9to5mac, https://9to5mac.com, 9to5mac
+TheSun, https://www.thesun.co.uk, thesun
+TheTelegraph, https://www.telegraph.co.uk, thetelegraph
+HuffPost, https://www.huffingtonpost.co.uk, huffpost
+PinkNews, http://www.pinknews.co.uk, pinknews
