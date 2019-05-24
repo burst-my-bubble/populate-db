@@ -1,5 +1,6 @@
+# BBC
+
 http://feeds.bbci.co.uk/news/politics/rss.xml, bbc, politics
-https://9to5mac.com/rss, 9to5mac, technology
 http://feeds.bbci.co.uk/news/business/rss.xml, bbc, business
 http://feeds.bbci.co.uk/news/health/rss.xml, bbc, health
 http://feeds.bbci.co.uk/news/education/rss.xml, bbc, education
@@ -7,9 +8,15 @@ http://feeds.bbci.co.uk/news/science_and_environment/rss.xml, bbc, science
 http://feeds.bbci.co.uk/news/technology/rss.xml, bbc, technology
 http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml, bbc, entertainment
 http://feeds.bbci.co.uk/sport/rss.xml?edition=int, bbc, sport
-http://rss.cnn.com/rss/edition_technology.rss, cnn, technology
+
+# CNN
+http://rss.cnn.com/rss/cnn_tech.rss, cnn, technology
 http://rss.cnn.com/rss/edition_space.rss, cnn, science
 http://rss.cnn.com/rss/edition_entertainment.rss, cnn, entertainment
 http://rss.cnn.com/rss/edition_sport.rss, cnn, sport
 http://rss.cnn.com/rss/edition_travel.rss, cnn, travel
 http://rss.cnn.com/rss/money_news_international.rss, cnn, business
+http://rss.cnn.com/rss/cnn_health.rss, cnn, health
+
+# Apple Sites
+https://9to5mac.com/rss, 9to5mac, technology
