@@ -7,7 +7,7 @@ http://feeds.bbci.co.uk/news/education/rss.xml, bbc, education
 http://feeds.bbci.co.uk/news/science_and_environment/rss.xml, bbc, science
 http://feeds.bbci.co.uk/news/technology/rss.xml, bbc, technology
 http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml, bbc, entertainment
-http://feeds.bbci.co.uk/sport/rss.xml?edition=int, bbc, sport
+http://feeds.bbci.co.uk/sport/rss.xml, bbc, sport
 
 # CNN
 http://rss.cnn.com/rss/cnn_tech.rss, cnn, technology
