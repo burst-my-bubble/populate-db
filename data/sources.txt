@@ -10,3 +10,4 @@ HuffPost, https://www.huffingtonpost.co.uk, huffpost
 PinkNews, http://www.pinknews.co.uk, pinknews
 Breitbart, https://www.breitbart.com/, breitbart
 Vox, https://www.vox.com/, vox
+Independent, https://www.independent.co.uk/, independent
