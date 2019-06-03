@@ -38,3 +38,16 @@ https://www.buzzfeed.com/health.xml, buzzfeed, health
 https://www.buzzfeed.com/politics.xml, buzzfeed, politics
 https://www.buzzfeed.com/bringme.xml, buzzfeed, travel
 https://www.buzzfeed.com/science.xml, buzzfeed, science
+
+# The Guardian
+https://www.theguardian.com/uk/sport/rss, theguardian, sport
+https://www.theguardian.com/uk/technology/rss, theguardian, technology
+https://www.theguardian.com/science/rss, theguardian, science
+https://www.theguardian.com/uk/business/rss, theguardian, business
+https://www.theguardian.com/uk/travel/rss, theguardian, travel
+https://www.theguardian.com/education/rss, theguardian, education
+https://www.theguardian.com/politics/rss, theguardian, politics
+https://www.theguardian.com/society/health/rss, theguardian, health
+https://www.theguardian.com/uk/culture/rss, theguardian, entertainment
+
+
