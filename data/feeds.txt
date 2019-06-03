@@ -73,7 +73,7 @@ https://www.huffpost.com/section/health/feed, huffpost, health
 https://www.huffpost.com/section/business/feed, huffpost, business
 https://www.huffpost.com/section/education/feed, huffpost, education
 https://www.huffpost.com/section/politics/feed, huffpost, politics
-https://www.huffpost.com/section/sports/feed, huffpost, sports
+https://www.huffpost.com/section/sports/feed, huffpost, sport
 https://www.huffpost.com/section/technology/feed, huffpost, technology
 https://www.huffpost.com/section/travel/feed, huffpost, travel
 https://www.huffpost.com/section/science/feed, huffpost, science
