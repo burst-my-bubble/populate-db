@@ -29,3 +29,12 @@ https://www.dailymail.co.uk/sciencetech/index.rss, dailymail, science
 https://www.dailymail.co.uk/money/index.rss, dailymail, business
 https://www.dailymail.co.uk/travel/index.rss, dailymail, travel
 
+# Buzzfeed
+https://www.buzzfeed.com/business.xml, buzzfeed, business
+https://www.buzzfeed.com/tvandmovies.xml, buzzfeed, entertainment
+https://www.buzzfeed.com/tech.xml, buzzfeed, technology
+https://www.buzzfeed.com/sports.xml, buzzfeed, sport
+https://www.buzzfeed.com/health.xml, buzzfeed, health
+https://www.buzzfeed.com/politics.xml, buzzfeed, politics
+https://www.buzzfeed.com/bringme.xml, buzzfeed, travel
+https://www.buzzfeed.com/science.xml, buzzfeed, science
