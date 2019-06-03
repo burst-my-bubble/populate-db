@@ -79,3 +79,16 @@ https://www.huffpost.com/section/technology/feed, huffpost, technology
 https://www.huffpost.com/section/travel/feed, huffpost, travel
 https://www.huffpost.com/section/science/feed, huffpost, science
 
+# Independent
+http://www.independent.co.uk/sport/rss, independent, sport
+http://www.independent.co.uk/travel/rss, independent, travel
+http://www.independent.co.uk/arts-entertainment/rss, independent, entertainment
+http://www.independent.co.uk/life-style/gadgets-and-tech/rss, independent, technology
+http://www.independent.co.uk/news/uk/politics/rss, independent, politics
+http://www.independent.co.uk/life-style/health-and-families/rss, independent, health
+http://www.independent.co.uk/news/science/rss, independent, science
+http://www.independent.co.uk/news/business/rss, independent, business
+http://www.independent.co.uk/news/education/rss, independent, education
+
+# Breitbart
+http://feeds.feedburner.com/breitbart?format=xml, breitbart, politics
