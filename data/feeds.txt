@@ -60,4 +60,11 @@ https://www.thesun.co.uk/news/politics/feed/, thesun, politics
 https://www.thesun.co.uk/news/health-news/feed, thesun, health
 https://www.thesun.co.uk/money/business/feed/, thesun, business
 
-
+# The Telegraph
+https://www.telegraph.co.uk/travel/rss.xml, thetelegraph, travel
+https://www.telegraph.co.uk/business/rss.xml, thetelegraph, business
+https://www.telegraph.co.uk/technology/rss.xml, thetelegraph, technology
+https://www.telegraph.co.uk/politics/rss.xml, thetelegraph, politics
+https://www.telegraph.co.uk/science/rss.xml, thetelegraph, science
+https://www.telegraph.co.uk/sport/rss.xml, thetelegraph, sport
+https://www.telegraph.co.uk/education/rss.xml, thetelegraph, education
