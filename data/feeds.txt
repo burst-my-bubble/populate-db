@@ -50,4 +50,14 @@ https://www.theguardian.com/politics/rss, theguardian, politics
 https://www.theguardian.com/society/health/rss, theguardian, health
 https://www.theguardian.com/uk/culture/rss, theguardian, entertainment
 
+# The Sun
+https://www.thesun.co.uk/tvandshowbiz/feed/, thesun, entertainment
+https://www.thesun.co.uk/sport/feed/, thesun, sport
+https://www.thesun.co.uk/tech/feed/, thesun, technology
+https://www.thesun.co.uk/travel/feed/, thesun, travel
+https://www.thesun.co.uk/science/feed, thesun, science
+https://www.thesun.co.uk/news/politics/feed/, thesun, politics
+https://www.thesun.co.uk/news/health-news/feed, thesun, health
+https://www.thesun.co.uk/money/business/feed/, thesun, business
+
 
