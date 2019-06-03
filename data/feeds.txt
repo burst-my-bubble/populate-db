@@ -20,3 +20,12 @@ http://rss.cnn.com/rss/cnn_health.rss, cnn, health
 
 # Apple Sites
 https://9to5mac.com/rss, 9to5mac, technology
+
+# Daily Mail
+https://www.dailymail.co.uk/tvshowbiz/index.rss, dailymail, entertainment
+https://www.dailymail.co.uk/sport/index.rss, dailymail, sport
+https://www.dailymail.co.uk/health/index.rss, dailymail, health
+https://www.dailymail.co.uk/sciencetech/index.rss, dailymail, science
+https://www.dailymail.co.uk/money/index.rss, dailymail, business
+https://www.dailymail.co.uk/travel/index.rss, dailymail, travel
+
